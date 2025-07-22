@@ -51,9 +51,7 @@
   </header>
 
   <div class="content">
-    <h2><center>Bem-vindos ao espaço do saber!<center>
-      
-    </h2>
+    <h2><center>Bem-vindos ao espaço do saber!<center></h2>
     <p>Este blog é dedicado à troca de ideias, experiências e recursos sobre educação. Aqui você encontrará reflexões, dicas pedagógicas e muito mais.</p>
 <p><center>Ensino, aprendizagem + Fé em Jesus Cristo, o saber é possivel!<center></p> 
 

@@ -1,5 +1,3 @@
-﻿#BlogDarlene
-
 <html>
 <head>
   <title>Blog da Profª Darlene</title>

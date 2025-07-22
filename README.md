@@ -65,7 +65,7 @@
   </div>
 
   <footer>
-    <p>© 2025 Blog da Profª Darlene<p>
+    <p>© 2025 Blog da Profª Darlene</p>
 <p>inicio em Julho 2025.</P>
   </footer>
 </body>
